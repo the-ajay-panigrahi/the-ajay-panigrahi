@@ -5,16 +5,16 @@
 I am a developer, a teacher, and a content creator. I build things with code and help others do the same. My projects are all about solving problems, and my content is all about sharing what I have learned along the way.
 
  <p align="left">
-  <a href="https://www.youtube.com/@ajaybpanigrahi">
+  <a href="https://www.youtube.com/@ajaybpanigrahi" target="_blank">
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCUORH7exy80f4vGCn4iPHpw"/>
   </a>
-  <a href="https://www.linkedin.com/in/ajay-panigrahi/">
+  <a href="https://www.linkedin.com/in/ajay-panigrahi/" target="_blank">
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/ajaybpanigrahi">
+  <a href="https://x.com/ajaybpanigrahi" target="_blank">
     <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/ajaybpanigrahi"/>
   </a>
-  <a href="https://www.ajaypanigrahi.com/">
+  <a href="https://www.ajaypanigrahi.com/" target="_blank">
     <img alt="Portfolio" title="View my portfolio" src="https://img.shields.io/badge/Portfolio-View-black?style=flat&logo=about.me&logoColor=white"/>
   </a>
 </p>
@@ -29,18 +29,18 @@ I am a developer, a teacher, and a content creator. I build things with code and
 
 ### 📺 My YouTube Channel
 
-<a href="https://youtu.be/qI8rkins4k4">
+<a href="https://youtu.be/qI8rkins4k4" target="_blank">
   <img alt="How to Use minimal.css" src="https://ytcards.demolab.com/?id=qI8rkins4k4&title=How+to+Use+minimal.css+-+Clean+HTML+Styling+in+One+Line+%7C+Perfect+for+Quick+Projects+%26+Demos&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5"/>
 </a>
-<a href="https://youtu.be/0foZzv8uCR8">
+<a href="https://youtu.be/0foZzv8uCR8" target="_blank">
   <img alt="How to Code a Snake Game" src="https://ytcards.demolab.com/?id=0foZzv8uCR8&title=How+to+Code+a+Snake+Game+in+HTML%2C+CSS+and+JavaScript+%E2%80%93+Full+Tutorial&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5"/>
 </a>
-<a href="https://youtu.be/bdSORMJpV_4">
+<a href="https://youtu.be/bdSORMJpV_4" target="_blank">
   <img alt="Pair Programming: Building a Kanban Board" src="https://ytcards.demolab.com/?id=bdSORMJpV_4&title=Pair+Programming%3A+Building+a+Kanban+Board+with+HTML%2C+CSS+and+JS&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5"/>
 </a>
 <br/>
 
-<a href="https://www.youtube.com/@ajaybpanigrahi?sub_confirmation=1">
+<a href="https://www.youtube.com/@ajaybpanigrahi?sub_confirmation=1" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe For More"/>
 </a>
 
