@@ -1,8 +1,8 @@
 # 🧑🏻‍💻 Ajay Panigrahi
 
-**`Ram Bhakt (Developer/Teacher/Content Creator)`**
+**`Developer`**
 
-I am a developer, a teacher, and a content creator. I build things with code and help others do the same. My projects are all about solving problems, and my content is all about sharing what I have learned along the way.
+I am a developer, I build things with code and help others do the same. My projects are all about solving problems, and my content is all about sharing what I have learned along the way.
 
  <p align="left">
   <a href="https://www.youtube.com/@ajaybpanigrahi" target="_blank">
