@@ -21,7 +21,7 @@ Outside of building software, I teach programming in person and on YouTube.
 
 * **Frontend:** React 19, Next.js, TypeScript, Tailwind CSS, Motion, Redux
 * **Backend & Data:** Node.js, Express, PostgreSQL, Prisma, MongoDB, Redis, Socket.IO
-* **Testing & DevOps:** Vitest, Playwright, Docker, AWS, Linux, Git
+* **Testing & DevOps:** Vitest, Playwright, Docker, AWS, Git, GitHub Actions
 
 ---
 
