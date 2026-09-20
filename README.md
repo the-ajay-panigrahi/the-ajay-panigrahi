@@ -33,21 +33,24 @@ Outside of building software, I teach programming in person and on YouTube.
       <a href="https://youtu.be/DMCUacG1c5I" target="_blank">
         <img src="https://img.youtube.com/vi/DMCUacG1c5I/mqdefault.jpg" width="100%" alt="Express Middleware Explained" style="border-radius: 6px;"/>
         <br/>
-        <b>Express Middleware Deep Dive</b>
+        <b>Express Middleware Deep Dive</b><br/>
+        <sub>1 hr 59 min</sub>
       </a>
     </td>
     <td width="33%" align="center">
       <a href="https://youtu.be/n7hpDDSOl1g" target="_blank">
         <img src="https://img.youtube.com/vi/n7hpDDSOl1g/mqdefault.jpg" width="100%" alt="Async JS Roadmap" style="border-radius: 6px;"/>
         <br/>
-        <b>Async JS Roadmap (Episode 0)</b>
+        <b>Async JS Roadmap (Episode 0)</b><br/>
+        <sub>5 min</sub>
       </a>
     </td>
     <td width="33%" align="center">
       <a href="https://youtu.be/Yuh8OCr1-RI" target="_blank">
         <img src="https://img.youtube.com/vi/Yuh8OCr1-RI/mqdefault.jpg" width="100%" alt="Sync vs Async JS" style="border-radius: 6px;"/>
         <br/>
-        <b>Execution Context & Call Stack</b>
+        <b>Execution Context & Call Stack</b><br/>
+        <sub>1 hr 20 min</sub>
       </a>
     </td>
   </tr>
